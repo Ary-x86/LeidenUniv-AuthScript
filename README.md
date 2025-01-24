@@ -1,8 +1,6 @@
 # LeidenUniv-AuthScript
 A automated script that fetches the 2FA Verification Code from your mail and displays it in terminal / copies it
 
-Here's a clean and human-friendly README.md for your Python script:
-Leiden University Email Automation Script
 
 This Python script automates the process of retrieving verification codes sent to your Gmail account by Leiden University. It simplifies authentication by scanning your inbox for recent emails, extracting the verification code, and copying it to your clipboard—all in one click!
 
